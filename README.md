@@ -1,6 +1,8 @@
 # Airbnb Marketing Analytics Project
 
-**Author:** Amritpal Singh (amritpalsingh1018@gmail.com)
+**Author:** Amritpal Singh
+
+**Contact:** amritpalsingh1018@gmail.com
 
 **Topic:** Marketing Analytics
 
