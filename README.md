@@ -82,7 +82,7 @@ To extract meaningful insights, three core machine learning models were develope
 
 ## Clustering Model
 
-### Model Development (Slide 6)
+### Model Development
 A clustering model (likely K-Means, based on Elbow/Silhouette analysis) was developed to group properties into distinct segments based on features like price, location, amenities, and guest ratings. Analysis using the Elbow Method and Silhouette Scores suggested an optimal number of clusters (visuals point towards K=4 being a good candidate explored further). Principal Component Analysis (PCA) was used for visualizing the clusters in 2D space.
 
 ### Cluster Profiles
@@ -135,7 +135,7 @@ Several regression models were trained and evaluated to predict listing prices.
 
 ### Key Price Drivers & Temporal Insights
 
-*   **Reviews (Slide 13):** Cleanliness shows a notable positive correlation with price. Location has the strongest correlation among review metrics.
+*   **Reviews:** Cleanliness shows a notable positive correlation with price. Location has the strongest correlation among review metrics.
     *   *Hosts:* Prioritize cleanliness.
     *   *Guests:* Expect to pay more for prime locations.
     *   *New Hosts:* Understand your location's impact on pricing potential.
