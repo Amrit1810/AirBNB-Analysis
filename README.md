@@ -210,5 +210,3 @@ Leverage these insights and models to create a suite of data-driven tools for st
     *   NLP (Preprocessing): NLTK, spaCy (potentially)
 
 ---
-
-## Project Structure (Example - Please Adapt)
